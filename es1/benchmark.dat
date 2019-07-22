@@ -1,0 +1,26 @@
+mar 16 lug 2019, 12.03.08, CEST
+Sequencial Benchmark
+Time execution 0.000949
+----------------------
+Time execution 0.001928
+----------------------
+Time execution 0.003510
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -418
+Tempo calcolo locale: 0.000148
+MPI_Reduce max time: 0.000148
+----------------------
+Processori impegnati: 4
+La somma e': 99
+Tempo calcolo locale: 0.000188
+MPI_Reduce max time: 0.000190
+----------------------
+Processori impegnati: 8
+La somma e': 1123
+Tempo calcolo locale: 0.000290
+MPI_Reduce max time: 0.000472
+----------------------
+======================

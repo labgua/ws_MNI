@@ -1,0 +1,204 @@
+Benchmark Prodotto Mat-Vet (II strategia)
+MPIPROG = es2/es2_p2
+N_INIT = 1000
+DOUBLING = 3
+ATTEMPT = 3
+ven 19 lug 2019, 10.38.46, CEST
+
+
+ ====================================> TEST-0 <====================================
+--- TEST-0 N=1000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.009921
+MPI_Reduce max time: 0.009921
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.006275
+MPI_Reduce max time: 0.006275
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.007560
+MPI_Reduce max time: 0.007561
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.010819
+MPI_Reduce max time: 0.011180
+----------------------
+========================================================================================
+--- TEST-0 N=2000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.046130
+MPI_Reduce max time: 0.046130
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.026576
+MPI_Reduce max time: 0.026576
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.034266
+MPI_Reduce max time: 0.034272
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.047288
+MPI_Reduce max time: 0.047481
+----------------------
+========================================================================================
+--- TEST-0 N=4000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.229043
+MPI_Reduce max time: 0.229043
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.126058
+MPI_Reduce max time: 0.126058
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.143297
+MPI_Reduce max time: 0.143298
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.246102
+MPI_Reduce max time: 0.246244
+----------------------
+========================================================================================
+
+
+ ====================================> TEST-1 <====================================
+--- TEST-1 N=1000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.010412
+MPI_Reduce max time: 0.010412
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.008907
+MPI_Reduce max time: 0.008910
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.037185
+MPI_Reduce max time: 0.043562
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.014332
+MPI_Reduce max time: 0.017956
+----------------------
+========================================================================================
+--- TEST-1 N=2000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.045602
+MPI_Reduce max time: 0.045602
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.028795
+MPI_Reduce max time: 0.028796
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.029661
+MPI_Reduce max time: 0.029663
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.053138
+MPI_Reduce max time: 0.053138
+----------------------
+========================================================================================
+--- TEST-1 N=4000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.225184
+MPI_Reduce max time: 0.225184
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.129957
+MPI_Reduce max time: 0.129963
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.141814
+MPI_Reduce max time: 0.141817
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.180345
+MPI_Reduce max time: 0.180347
+----------------------
+========================================================================================
+
+
+ ====================================> TEST-2 <====================================
+--- TEST-2 N=1000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.009592
+MPI_Reduce max time: 0.009592
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.006376
+MPI_Reduce max time: 0.006376
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.016846
+MPI_Reduce max time: 0.016846
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.013949
+MPI_Reduce max time: 0.013949
+----------------------
+========================================================================================
+--- TEST-2 N=2000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.045157
+MPI_Reduce max time: 0.045157
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.025540
+MPI_Reduce max time: 0.025544
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.031051
+MPI_Reduce max time: 0.031058
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.041678
+MPI_Reduce max time: 0.041736
+----------------------
+========================================================================================
+--- TEST-2 N=4000
+Sequencial Benchmark
+Processori impegnati: 1
+Tempo calcolo locale: 0.225908
+MPI_Reduce max time: 0.225908
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+Tempo calcolo locale: 0.126021
+MPI_Reduce max time: 0.126021
+----------------------
+Processori impegnati: 4
+Tempo calcolo locale: 0.161534
+MPI_Reduce max time: 0.161559
+----------------------
+Processori impegnati: 8
+Tempo calcolo locale: 0.160058
+MPI_Reduce max time: 0.160058
+----------------------
+========================================================================================
