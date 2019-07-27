@@ -1,0 +1,75 @@
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=128  gridDim:Y=128
+tempo GPU=0.000000
+tempo CPU=0.003486
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=64  gridDim:Y=64
+tempo GPU=0.000000
+tempo CPU=0.003581
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=32  gridDim:Y=32
+tempo GPU=0.000000
+tempo CPU=0.003512
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=256  gridDim:Y=256
+tempo GPU=0.000000
+tempo CPU=0.014391
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=128  gridDim:Y=128
+tempo GPU=0.000000
+tempo CPU=0.013321
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=64  gridDim:Y=64
+tempo GPU=0.000000
+tempo CPU=0.013222
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=512  gridDim:Y=512
+tempo GPU=0.000000
+tempo CPU=0.052583
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=256  gridDim:Y=256
+tempo GPU=0.000000
+tempo CPU=0.052337
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=128  gridDim:Y=128
+tempo GPU=0.000000
+tempo CPU=0.054094
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=1024  gridDim:Y=1024
+tempo GPU=0.000000
+tempo CPU=0.214073
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=512  gridDim:Y=512
+tempo GPU=0.000000
+tempo CPU=0.211533
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=256  gridDim:Y=256
+tempo GPU=0.000000
+tempo CPU=0.215688
+I risultati dell'host e del device coincidono
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=2048  gridDim:Y=2048
+tempo GPU=0.000000
+tempo CPU=0.858328
+I risultati dell'host e del device sono diversi
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=1024  gridDim:Y=1024
+tempo GPU=0.000000
+tempo CPU=0.861797
+I risultati dell'host e del device sono diversi
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=512  gridDim:Y=512
+tempo GPU=0.000000
+tempo CPU=0.844367
+I risultati dell'host e del device sono diversi
