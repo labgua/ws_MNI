@@ -1,0 +1,180 @@
+./es6/es6 100000 8 0 >> es6/bench_es6.dat
+Taglia input: 100000
+Tempo CPU: 0.332 ms
+
+I STRATEGIA
+Tempo GPU: 0.430
+
+II STRATEGIA
+Tempo GPU: 0.300
+
+III STRATEGIA
+Tempo GPU: 0.167
+./es6/es6 100000 16 0 >> es6/bench_es6.dat
+Taglia input: 100000
+Tempo CPU: 0.334 ms
+
+I STRATEGIA
+Tempo GPU: 0.386
+
+II STRATEGIA
+Tempo GPU: 0.192
+
+III STRATEGIA
+Tempo GPU: 0.104
+./es6/es6 100000 32 0 >> es6/bench_es6.dat
+Taglia input: 100000
+Tempo CPU: 0.339 ms
+
+I STRATEGIA
+Tempo GPU: 0.360
+
+II STRATEGIA
+Tempo GPU: 1.112
+
+III STRATEGIA
+Tempo GPU: 0.081
+./es6/es6 200000 8 0 >> es6/bench_es6.dat
+Taglia input: 200000
+Tempo CPU: 0.681 ms
+
+I STRATEGIA
+Tempo GPU: 0.835
+
+II STRATEGIA
+Tempo GPU: 0.576
+
+III STRATEGIA
+Tempo GPU: 0.371
+./es6/es6 200000 16 0 >> es6/bench_es6.dat
+Taglia input: 200000
+Tempo CPU: 0.750 ms
+
+I STRATEGIA
+Tempo GPU: 0.768
+
+II STRATEGIA
+Tempo GPU: 0.365
+
+III STRATEGIA
+Tempo GPU: 0.220
+./es6/es6 200000 32 0 >> es6/bench_es6.dat
+Taglia input: 200000
+Tempo CPU: 0.642 ms
+
+I STRATEGIA
+Tempo GPU: 0.743
+
+II STRATEGIA
+Tempo GPU: 0.230
+
+III STRATEGIA
+Tempo GPU: 0.137
+./es6/es6 400000 8 0 >> es6/bench_es6.dat
+Taglia input: 400000
+Tempo CPU: 1.324 ms
+
+I STRATEGIA
+Tempo GPU: 1.559
+
+II STRATEGIA
+Tempo GPU: 1.139
+
+III STRATEGIA
+Tempo GPU: 0.745
+./es6/es6 400000 16 0 >> es6/bench_es6.dat
+Taglia input: 400000
+Tempo CPU: 1.376 ms
+
+I STRATEGIA
+Tempo GPU: 1.528
+
+II STRATEGIA
+Tempo GPU: 0.706
+
+III STRATEGIA
+Tempo GPU: 0.436
+./es6/es6 400000 32 0 >> es6/bench_es6.dat
+Taglia input: 400000
+Tempo CPU: 1.266 ms
+
+I STRATEGIA
+Tempo GPU: 1.440
+
+II STRATEGIA
+Tempo GPU: 0.436
+
+III STRATEGIA
+Tempo GPU: 0.271
+./es6/es6 800000 8 0 >> es6/bench_es6.dat
+Taglia input: 800000
+Tempo CPU: 2.493 ms
+
+I STRATEGIA
+Tempo GPU: 3.077
+
+II STRATEGIA
+Tempo GPU: 2.260
+
+III STRATEGIA
+Tempo GPU: 1.482
+./es6/es6 800000 16 0 >> es6/bench_es6.dat
+Taglia input: 800000
+Tempo CPU: 2.532 ms
+
+I STRATEGIA
+Tempo GPU: 2.949
+
+II STRATEGIA
+Tempo GPU: 1.398
+
+III STRATEGIA
+Tempo GPU: 0.864
+./es6/es6 800000 32 0 >> es6/bench_es6.dat
+Taglia input: 800000
+Tempo CPU: 2.531 ms
+
+I STRATEGIA
+Tempo GPU: 2.836
+
+II STRATEGIA
+Tempo GPU: 0.836
+
+III STRATEGIA
+Tempo GPU: 0.527
+./es6/es6 1600000 8 0 >> es6/bench_es6.dat
+Taglia input: 1600000
+Tempo CPU: 5.199 ms
+
+I STRATEGIA
+Tempo GPU: 6.438
+
+II STRATEGIA
+Tempo GPU: 4.508
+
+III STRATEGIA
+Tempo GPU: 3.088
+./es6/es6 1600000 16 0 >> es6/bench_es6.dat
+Taglia input: 1600000
+Tempo CPU: 5.218 ms
+
+I STRATEGIA
+Tempo GPU: 5.883
+
+II STRATEGIA
+Tempo GPU: 2.776
+
+III STRATEGIA
+Tempo GPU: 1.751
+./es6/es6 1600000 32 0 >> es6/bench_es6.dat
+Taglia input: 1600000
+Tempo CPU: 5.046 ms
+
+I STRATEGIA
+Tempo GPU: 5.807
+
+II STRATEGIA
+Tempo GPU: 1.666
+
+III STRATEGIA
+Tempo GPU: 1.074

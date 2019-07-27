@@ -1,0 +1,7025 @@
+ES4 p1 bench
+
+
+ ====================================> TEST-0 <====================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 100
+Numero di thread per blocco = 32
+Numero di blocchi = 4
+tempo GPU=0.000000
+tempo CPU=0.000002
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 328350
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 200
+Numero di thread per blocco = 32
+Numero di blocchi = 7
+tempo GPU=0.000000
+tempo CPU=0.000002
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 2646700
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 400
+Numero di thread per blocco = 32
+Numero di blocchi = 13
+tempo GPU=0.000000
+tempo CPU=0.000003
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 21253400
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 800
+Numero di thread per blocco = 32
+Numero di blocchi = 25
+tempo GPU=0.000000
+tempo CPU=0.000005
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 170346800
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 1600
+Numero di thread per blocco = 32
+Numero di blocchi = 50
+tempo GPU=0.000000
+tempo CPU=0.000006
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 1364053600
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 3200
+Numero di thread per blocco = 32
+Numero di blocchi = 100
+tempo GPU=0.000000
+tempo CPU=0.000012
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -1967354688
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 6400
+Numero di thread per blocco = 32
+Numero di blocchi = 200
+tempo GPU=0.000000
+tempo CPU=0.000022
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 1461508480
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 12800
+Numero di thread per blocco = 32
+Numero di blocchi = 400
+tempo GPU=0.000000
+tempo CPU=0.000044
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -1110920448
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 25600
+Numero di thread per blocco = 32
+Numero di blocchi = 800
+tempo GPU=0.000000
+tempo CPU=0.000087
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 30238208
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 51200
+Numero di thread per blocco = 32
+Numero di blocchi = 1600
+tempo GPU=0.000000
+tempo CPU=0.000173
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 1552600064
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 102400
+Numero di thread per blocco = 32
+Numero di blocchi = 3200
+tempo GPU=0.000000
+tempo CPU=0.000349
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 483760128
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 204800
+Numero di thread per blocco = 32
+Numero di blocchi = 6400
+tempo GPU=0.000000
+tempo CPU=0.000639
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -928305152
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 409600
+Numero di thread per blocco = 32
+Numero di blocchi = 12800
+tempo GPU=0.000000
+tempo CPU=0.001307
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -849977344
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 819200
+Numero di thread per blocco = 32
+Numero di blocchi = 25600
+tempo GPU=0.000000
+tempo CPU=0.002770
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -1968390144
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 1638400
+Numero di thread per blocco = 32
+Numero di blocchi = 51200
+tempo GPU=0.000000
+tempo CPU=0.005337
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -715554816
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 3276800
+Numero di thread per blocco = 32
+Numero di blocchi = 102400
+tempo GPU=0.000000
+tempo CPU=0.010373
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -1431109632
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 6553600
+Numero di thread per blocco = 32
+Numero di blocchi = 204800
+tempo GPU=0.000000
+tempo CPU=0.020394
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 1432748032
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 13107200
+Numero di thread per blocco = 32
+Numero di blocchi = 409600
+tempo GPU=0.000000
+tempo CPU=0.041839
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -1429471232
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 26214400
+Numero di thread per blocco = 32
+Numero di blocchi = 819200
+tempo GPU=0.000000
+tempo CPU=0.082714
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 1436024832
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 52428800
+Numero di thread per blocco = 32
+Numero di blocchi = 1638400
+tempo GPU=0.000000
+tempo CPU=0.163920
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è -1422917632
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 104857600
+Numero di thread per blocco = 32
+Numero di blocchi = 3276800
+tempo GPU=0.000000
+tempo CPU=0.328072
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 1449132032
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 209715200
+Numero di thread per blocco = 32
+Numero di blocchi = 6553600
+tempo GPU=0.000000
+tempo CPU=0.666748
+I risultati dell'host e del device sono diversi
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 419430400
+Numero di thread per blocco = 32
+Numero di blocchi = 13107200
+tempo GPU=0.000000
+tempo CPU=1.314257
+I risultati dell'host e del device sono diversi
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+========================================================================================
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = -939524096
+Numero di thread per blocco = 32
+Numero di blocchi = 104857600
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = -1879048192
+Numero di thread per blocco = 32
+Numero di blocchi = 75497472
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+========================================================================================
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = -2147483648
+Numero di thread per blocco = 32
+Numero di blocchi = 67108864
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000003
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000003
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000004
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000004
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000003
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000014
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000002
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================
+***	 PRODOTTO SCALARE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Numero di elementi = 0
+Numero di thread per blocco = 32
+Numero di blocchi = 0
+tempo GPU=0.000000
+tempo CPU=0.000001
+array A
+
+array B
+
+Risultati host
+
+Risultati device
+
+I risultati dell'host e del device coincidono
+Esegui la somma totale sull'host
+La somma totale è 0
+========================================================================================

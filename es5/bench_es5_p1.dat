@@ -1,0 +1,150 @@
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 100000
+Numero di thread per blocco = 8
+Numero di blocchi = 12500
+tempo GPU=0.125120
+tempo CPU=0.301728
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 100000
+Numero di thread per blocco = 16
+Numero di blocchi = 6250
+tempo GPU=0.089952
+tempo CPU=0.385696
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 100000
+Numero di thread per blocco = 32
+Numero di blocchi = 3125
+tempo GPU=0.064992
+tempo CPU=0.302624
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 200000
+Numero di thread per blocco = 8
+Numero di blocchi = 25000
+tempo GPU=0.254464
+tempo CPU=0.606624
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 200000
+Numero di thread per blocco = 16
+Numero di blocchi = 12500
+tempo GPU=0.201472
+tempo CPU=0.667744
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 200000
+Numero di thread per blocco = 32
+Numero di blocchi = 6250
+tempo GPU=0.144256
+tempo CPU=0.605536
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 400000
+Numero di thread per blocco = 8
+Numero di blocchi = 50000
+tempo GPU=0.483648
+tempo CPU=1.275072
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 400000
+Numero di thread per blocco = 16
+Numero di blocchi = 25000
+tempo GPU=0.398848
+tempo CPU=1.247424
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 400000
+Numero di thread per blocco = 32
+Numero di blocchi = 12500
+tempo GPU=0.355136
+tempo CPU=1.215200
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 800000
+Numero di thread per blocco = 8
+Numero di blocchi = 100000
+tempo GPU=0.964064
+tempo CPU=2.498528
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 800000
+Numero di thread per blocco = 16
+Numero di blocchi = 50000
+tempo GPU=0.762464
+tempo CPU=2.520064
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 800000
+Numero di thread per blocco = 32
+Numero di blocchi = 25000
+tempo GPU=0.711008
+tempo CPU=2.515648
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 1600000
+Numero di thread per blocco = 8
+Numero di blocchi = 200000
+tempo GPU=1.947680
+tempo CPU=5.161664
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 1600000
+Numero di thread per blocco = 16
+Numero di blocchi = 100000
+tempo GPU=1.491712
+tempo CPU=4.989120
+I risultati dell'host e del device coincidono
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+***	 PRODOTTO COMPONENTE PER COMPONENTE DI DUE ARRAY 	***
+Inserisci il numero elementi dei vettori
+Inserisci il numero di thread per blocco
+Numero di elementi = 1600000
+Numero di thread per blocco = 32
+Numero di blocchi = 50000
+tempo GPU=1.425312
+tempo CPU=5.254272
+I risultati dell'host e del device coincidono

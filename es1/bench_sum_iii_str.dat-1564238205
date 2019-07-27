@@ -1,0 +1,389 @@
+MPIPROG = es1/es1_p3
+N_INIT = 100000
+DOUBLING = 3
+ATTEMPT = 5
+sab 27 lug 2019, 16.36.45, CEST
+
+
+ ====================================> TEST-0 <====================================
+--- TEST-0 N=100000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -375
+Tempo calcolo locale: 0.000288
+MPI_Reduce max time: 0.000288
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -375
+Tempo calcolo locale: 0.000414
+MPI_Reduce max time: 0.000414
+----------------------
+Processori impegnati: 4
+La somma e': -375
+Tempo calcolo locale: 0.000150
+MPI_Reduce max time: 0.000152
+----------------------
+Processori impegnati: 8
+La somma e': -375
+Tempo calcolo locale: 0.000074
+MPI_Reduce max time: 0.000227
+----------------------
+========================================================================================
+--- TEST-0 N=200000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -133
+Tempo calcolo locale: 0.000630
+MPI_Reduce max time: 0.000630
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -133
+Tempo calcolo locale: 0.000297
+MPI_Reduce max time: 0.000297
+----------------------
+Processori impegnati: 4
+La somma e': -133
+Tempo calcolo locale: 0.000189
+MPI_Reduce max time: 0.000194
+----------------------
+Processori impegnati: 8
+La somma e': -757
+Tempo calcolo locale: 0.000275
+MPI_Reduce max time: 0.000402
+----------------------
+========================================================================================
+--- TEST-0 N=400000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -90
+Tempo calcolo locale: 0.001154
+MPI_Reduce max time: 0.001154
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -90
+Tempo calcolo locale: 0.000587
+MPI_Reduce max time: 0.000587
+----------------------
+Processori impegnati: 4
+La somma e': -90
+Tempo calcolo locale: 0.000353
+MPI_Reduce max time: 0.000354
+----------------------
+Processori impegnati: 8
+La somma e': -90
+Tempo calcolo locale: 0.000775
+MPI_Reduce max time: 0.004987
+----------------------
+========================================================================================
+--- TEST-0 N=800000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': 2499
+Tempo calcolo locale: 0.002353
+MPI_Reduce max time: 0.002353
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': 2499
+Tempo calcolo locale: 0.001265
+MPI_Reduce max time: 0.001265
+----------------------
+Processori impegnati: 4
+La somma e': 2499
+Tempo calcolo locale: 0.000869
+MPI_Reduce max time: 0.000873
+----------------------
+Processori impegnati: 8
+La somma e': 683
+Tempo calcolo locale: 0.001078
+MPI_Reduce max time: 0.001111
+----------------------
+========================================================================================
+--- TEST-0 N=1600000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -790
+Tempo calcolo locale: 0.004715
+MPI_Reduce max time: 0.004715
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -790
+Tempo calcolo locale: 0.002512
+MPI_Reduce max time: 0.002512
+----------------------
+Processori impegnati: 4
+La somma e': -790
+Tempo calcolo locale: 0.001358
+MPI_Reduce max time: 0.001359
+----------------------
+Processori impegnati: 8
+La somma e': -790
+Tempo calcolo locale: 0.000711
+MPI_Reduce max time: 0.001710
+----------------------
+========================================================================================
+
+
+ ====================================> TEST-1 <====================================
+--- TEST-1 N=100000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': 207
+Tempo calcolo locale: 0.000286
+MPI_Reduce max time: 0.000286
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': 207
+Tempo calcolo locale: 0.000151
+MPI_Reduce max time: 0.000151
+----------------------
+Processori impegnati: 4
+La somma e': 207
+Tempo calcolo locale: 0.000113
+MPI_Reduce max time: 0.000115
+----------------------
+Processori impegnati: 8
+La somma e': 207
+Tempo calcolo locale: 0.000076
+MPI_Reduce max time: 0.000200
+----------------------
+========================================================================================
+--- TEST-1 N=200000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -186
+Tempo calcolo locale: 0.000576
+MPI_Reduce max time: 0.000576
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -186
+Tempo calcolo locale: 0.000298
+MPI_Reduce max time: 0.000298
+----------------------
+Processori impegnati: 4
+La somma e': -186
+Tempo calcolo locale: 0.000190
+MPI_Reduce max time: 0.000192
+----------------------
+Processori impegnati: 8
+La somma e': -186
+Tempo calcolo locale: 0.000213
+MPI_Reduce max time: 0.000535
+----------------------
+========================================================================================
+--- TEST-1 N=400000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': 757
+Tempo calcolo locale: 0.001162
+MPI_Reduce max time: 0.001162
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': 757
+Tempo calcolo locale: 0.000598
+MPI_Reduce max time: 0.000598
+----------------------
+Processori impegnati: 4
+La somma e': 757
+Tempo calcolo locale: 0.000380
+MPI_Reduce max time: 0.000384
+----------------------
+Processori impegnati: 8
+La somma e': -108
+Tempo calcolo locale: 0.000369
+MPI_Reduce max time: 0.000575
+----------------------
+========================================================================================
+--- TEST-1 N=800000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -1012
+Tempo calcolo locale: 0.002312
+MPI_Reduce max time: 0.002312
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -1012
+Tempo calcolo locale: 0.001104
+MPI_Reduce max time: 0.001104
+----------------------
+Processori impegnati: 4
+La somma e': -1012
+Tempo calcolo locale: 0.000690
+MPI_Reduce max time: 0.000691
+----------------------
+Processori impegnati: 8
+La somma e': -1012
+Tempo calcolo locale: 0.001160
+MPI_Reduce max time: 0.001179
+----------------------
+========================================================================================
+--- TEST-1 N=1600000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -509
+Tempo calcolo locale: 0.004315
+MPI_Reduce max time: 0.004315
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -509
+Tempo calcolo locale: 0.002178
+MPI_Reduce max time: 0.002178
+----------------------
+Processori impegnati: 4
+La somma e': -509
+Tempo calcolo locale: 0.001361
+MPI_Reduce max time: 0.001361
+----------------------
+Processori impegnati: 8
+La somma e': -3022
+Tempo calcolo locale: 0.001020
+MPI_Reduce max time: 0.001824
+----------------------
+========================================================================================
+
+
+ ====================================> TEST-2 <====================================
+--- TEST-2 N=100000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -3
+Tempo calcolo locale: 0.000292
+MPI_Reduce max time: 0.000292
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -3
+Tempo calcolo locale: 0.000161
+MPI_Reduce max time: 0.000161
+----------------------
+Processori impegnati: 4
+La somma e': -3
+Tempo calcolo locale: 0.000103
+MPI_Reduce max time: 0.000106
+----------------------
+Processori impegnati: 8
+La somma e': -3
+Tempo calcolo locale: 0.000509
+MPI_Reduce max time: 0.000629
+----------------------
+========================================================================================
+--- TEST-2 N=200000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -9
+Tempo calcolo locale: 0.000582
+MPI_Reduce max time: 0.000582
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -9
+Tempo calcolo locale: 0.000289
+MPI_Reduce max time: 0.000289
+----------------------
+Processori impegnati: 4
+La somma e': -9
+Tempo calcolo locale: 0.000197
+MPI_Reduce max time: 0.000199
+----------------------
+Processori impegnati: 8
+La somma e': -9
+Tempo calcolo locale: 0.000137
+MPI_Reduce max time: 0.000359
+----------------------
+========================================================================================
+--- TEST-2 N=400000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': 280
+Tempo calcolo locale: 0.001137
+MPI_Reduce max time: 0.001137
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -1163
+Tempo calcolo locale: 0.000608
+MPI_Reduce max time: 0.000608
+----------------------
+Processori impegnati: 4
+La somma e': -1163
+Tempo calcolo locale: 0.000358
+MPI_Reduce max time: 0.000359
+----------------------
+Processori impegnati: 8
+La somma e': -1163
+Tempo calcolo locale: 0.000323
+MPI_Reduce max time: 0.000746
+----------------------
+========================================================================================
+--- TEST-2 N=800000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -2212
+Tempo calcolo locale: 0.002197
+MPI_Reduce max time: 0.002197
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -2212
+Tempo calcolo locale: 0.001183
+MPI_Reduce max time: 0.001183
+----------------------
+Processori impegnati: 4
+La somma e': -2212
+Tempo calcolo locale: 0.000683
+MPI_Reduce max time: 0.000686
+----------------------
+Processori impegnati: 8
+La somma e': -2212
+Tempo calcolo locale: 0.000728
+MPI_Reduce max time: 0.000733
+----------------------
+========================================================================================
+--- TEST-2 N=1600000
+Sequencial Benchmark
+Processori impegnati: 1
+La somma e': -3210
+Tempo calcolo locale: 0.004261
+MPI_Reduce max time: 0.004261
+----------------------
+======================
+Parallel Benchmark
+Processori impegnati: 2
+La somma e': -3210
+Tempo calcolo locale: 0.002173
+MPI_Reduce max time: 0.002173
+----------------------
+Processori impegnati: 4
+La somma e': -458
+Tempo calcolo locale: 0.001420
+MPI_Reduce max time: 0.001420
+----------------------
+Processori impegnati: 8
+La somma e': -458
+Tempo calcolo locale: 0.000701
+MPI_Reduce max time: 0.002185
+----------------------
+========================================================================================

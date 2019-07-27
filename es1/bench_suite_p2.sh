@@ -3,10 +3,20 @@
 export MNIDEBUG 
 MNIDEBUG=0
 
-LOGGER=benchmark.dat
-SEQPROG=es1_p1
-MPIPROG=somma
+LOGGER=$1
+MPIPROG=$2
+SEQPROG=$3
 
+N_INIT=100000
+
+DOUBLING=3
+
+ATTEMPT=5
+
+
+echo "AutoBench, for MNI (edited)"
+
+LOGGER=$LOGGER-$(date +%s)
 
 ### CHECKING DEBUGGING in console
 if [[ $MNIDEBUG == 1 ]]; then
@@ -15,37 +25,63 @@ else
 	echo "DEBUGGING is OFF"
 fi
 
+echo "Somma II strategia (seq:somma[noMPI] e par[conMPI])"
 
+echo "Somma II strategia (seq:somma[noMPI] e par[conMPI])" >> $LOGGER
+echo "MPIPROG = $MPIPROG" >> $LOGGER
+echo "N_INIT = $N_INIT" >> $LOGGER
+echo "DOUBLING = $DOUBLING" >> $LOGGER
+echo "ATTEMPT = $ATTEMPT" >> $LOGGER
 date >> $LOGGER
 
-echo "Sequencial Benchmark"
-echo "Sequencial Benchmark" >> $LOGGER
 
-./$SEQPROG 100000 >> $LOGGER
-echo "----------------------" >> $LOGGER
+for (( i = 0; i < DOUBLING; i++ )); do
 
-./$SEQPROG 200000 >> $LOGGER
-echo "----------------------" >> $LOGGER
+	N=$N_INIT
 
-./$SEQPROG 400000 >> $LOGGER
-echo "----------------------" >> $LOGGER
-
-
-echo "======================" >> $LOGGER
+	echo "=====> TEST-$i <====="
+	echo -e "\n\n ====================================> TEST-$i <====================================" >> $LOGGER	
+	for (( j = 1; j <= ATTEMPT; j++ )); do
+		echo "--- TEST-$i N=$N"
+		echo "--- TEST-$i N=$N" >> $LOGGER
 
 
-echo "Parallel Benchmark"
-echo "Parallel Benchmark" >> $LOGGER
+		################### ESECUZIONE DEL TEST #################
 
-echo 100000 | mpirun -x MNIDEBUG -np 2 $MPIPROG >> $LOGGER
-echo "----------------------" >> $LOGGER
+		echo "Sequencial Benchmark"
+		echo "Sequencial Benchmark" >> $LOGGER
 
-echo 200000 | mpirun -x MNIDEBUG -np 4 $MPIPROG >> $LOGGER
-echo "----------------------" >> $LOGGER
+		echo "$SEQPROG $N >> $LOGGER"
+		$SEQPROG $N >> $LOGGER
 
-echo 400000 | mpirun -x MNIDEBUG -np 8 $MPIPROG >> $LOGGER
-echo "----------------------" >> $LOGGER
+		echo "----------------------" >> $LOGGER
 
 
 
-echo "======================" >> $LOGGER
+		echo "======================" >> $LOGGER
+
+
+		echo "Parallel Benchmark"
+		echo "Parallel Benchmark" >> $LOGGER
+
+		echo "echo $N | mpirun -x MNIDEBUG -np 2 $MPIPROG >> $LOGGER"
+		echo $N | mpirun -x MNIDEBUG -np 2 $MPIPROG >> $LOGGER
+		echo "----------------------" >> $LOGGER
+
+		echo "echo $N | mpirun -x MNIDEBUG -np 4 $MPIPROG >> $LOGGER"
+		echo $N | mpirun -x MNIDEBUG -np 4 $MPIPROG >> $LOGGER
+		echo "----------------------" >> $LOGGER
+
+		echo "echo $N | mpirun -x MNIDEBUG -np 8 $MPIPROG >> $LOGGER"
+		echo $N | mpirun -x MNIDEBUG -np 8 $MPIPROG >> $LOGGER
+		echo "----------------------" >> $LOGGER
+
+
+
+		echo "========================================================================================" >> $LOGGER
+		#########################################################
+
+
+		N=$((N*2))
+	done
+done

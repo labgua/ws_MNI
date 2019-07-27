@@ -25,7 +25,7 @@ then
 	read -p "# ATTEMPT TEST   : " ATTEMPT
 fi
 
-LOGGER=$(date +%s)_$LOGGER
+LOGGER=$LOGGER-$(date +%s)
 
 ### CHECKING DEBUGGING in console
 if [[ $MNIDEBUG == 1 ]]; then
@@ -34,9 +34,9 @@ else
 	echo "DEBUGGING is OFF"
 fi
 
-read -p "Titolo esperimento: " TITLE
+##read -p "Titolo esperimento: " TITLE
+##echo $TITLE >> $LOGGER
 
-echo $TITLE >> $LOGGER
 echo "MPIPROG = $MPIPROG" >> $LOGGER
 echo "N_INIT = $N_INIT" >> $LOGGER
 echo "DOUBLING = $DOUBLING" >> $LOGGER

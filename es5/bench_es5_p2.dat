@@ -1,75 +1,90 @@
+echo 1024 8 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=128  gridDim:Y=128
-tempo GPU=0.000000
-tempo CPU=0.003486
-I risultati dell'host e del device coincidono
-***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
-Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=64  gridDim:Y=64
 tempo GPU=0.000000
 tempo CPU=0.003581
 I risultati dell'host e del device coincidono
-***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
-Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=32  gridDim:Y=32
-tempo GPU=0.000000
-tempo CPU=0.003512
-I risultati dell'host e del device coincidono
-***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
-Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=256  gridDim:Y=256
-tempo GPU=0.000000
-tempo CPU=0.014391
-I risultati dell'host e del device coincidono
-***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
-Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=128  gridDim:Y=128
-tempo GPU=0.000000
-tempo CPU=0.013321
-I risultati dell'host e del device coincidono
+echo 1024 16 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=64  gridDim:Y=64
 tempo GPU=0.000000
-tempo CPU=0.013222
+tempo CPU=0.003574
 I risultati dell'host e del device coincidono
+echo 1024 32 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
-Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=512  gridDim:Y=512
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=32  gridDim:Y=32
 tempo GPU=0.000000
-tempo CPU=0.052583
+tempo CPU=0.003592
 I risultati dell'host e del device coincidono
+echo 2048 8 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=256  gridDim:Y=256
 tempo GPU=0.000000
-tempo CPU=0.052337
+tempo CPU=0.013876
 I risultati dell'host e del device coincidono
+echo 2048 16 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=128  gridDim:Y=128
 tempo GPU=0.000000
-tempo CPU=0.054094
+tempo CPU=0.014209
 I risultati dell'host e del device coincidono
+echo 2048 32 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
-Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=1024  gridDim:Y=1024
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=64  gridDim:Y=64
 tempo GPU=0.000000
-tempo CPU=0.214073
+tempo CPU=0.013368
 I risultati dell'host e del device coincidono
+echo 4096 8 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=512  gridDim:Y=512
 tempo GPU=0.000000
-tempo CPU=0.211533
+tempo CPU=0.052694
 I risultati dell'host e del device coincidono
+echo 4096 16 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=256  gridDim:Y=256
 tempo GPU=0.000000
-tempo CPU=0.215688
+tempo CPU=0.053380
 I risultati dell'host e del device coincidono
+echo 4096 32 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
-Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=2048  gridDim:Y=2048
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=128  gridDim:Y=128
 tempo GPU=0.000000
-tempo CPU=0.858328
-I risultati dell'host e del device sono diversi
+tempo CPU=0.052411
+I risultati dell'host e del device coincidono
+echo 8192 8 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=1024  gridDim:Y=1024
 tempo GPU=0.000000
-tempo CPU=0.861797
-I risultati dell'host e del device sono diversi
+tempo CPU=0.210758
+I risultati dell'host e del device coincidono
+echo 8192 16 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
 ***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
 Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=512  gridDim:Y=512
 tempo GPU=0.000000
-tempo CPU=0.844367
+tempo CPU=0.210134
+I risultati dell'host e del device coincidono
+echo 8192 32 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=256  gridDim:Y=256
+tempo GPU=0.000000
+tempo CPU=0.212181
+I risultati dell'host e del device coincidono
+echo 16384 8 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=2048  gridDim:Y=2048
+tempo GPU=0.000000
+tempo CPU=0.841089
+I risultati dell'host e del device sono diversi
+echo 16384 16 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=1024  gridDim:Y=1024
+tempo GPU=0.000000
+tempo CPU=0.842093
+I risultati dell'host e del device sono diversi
+echo 16384 32 | ./es5/es5_p2 >> es5/bench_es5_p2.dat
+***	 SOMMA DI DUE MATRICI, griglia: D x D  e blockDim: th x th  	***
+Inserisci N num righe e colonne : Inserisci la dimensione (quadrata) del threadBlock [8,16,32]: gridDim:X=512  gridDim:Y=512
+tempo GPU=0.000000
+tempo CPU=0.848020
 I risultati dell'host e del device sono diversi
