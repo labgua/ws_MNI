@@ -2,7 +2,7 @@
 PARAMS=-arch=sm_50
 
 all:es1/es1_p1 es1/somma es1/es1_p3 es2/matvet_seq es2/mvet es2/es2_p2 es3/es3_p1 \
-	train/cuda/esercizio01 train/cuda/esercizio02 train/cuda/esercizio03 train/cuda/esercizio04 \
+	train/cuda/info train/cuda/esercizio01 train/cuda/esercizio02 train/cuda/esercizio03 train/cuda/esercizio04 \
 	es4/es4_p1 es4/es4_p2 es5/tempi es5/es5_p2 es6/es6
 
 utility/utility.o: utility/utility.c utility/utility.h
@@ -55,6 +55,9 @@ es6/es6: es6/es6.cu
 
 
 ### TRAINING
+train/cuda/info: train/cuda/info.cu
+	nvcc $(PARAMS) train/cuda/info.cu -o train/cuda/info
+
 train/cuda/esercizio01: train/cuda/esercizio01.cu
 	nvcc $(PARAMS) train/cuda/esercizio01.cu -o train/cuda/esercizio01
 
